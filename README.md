@@ -21,7 +21,7 @@
 
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,vscode,intellij,figma,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,vscode,idea,figma,postman,git)](https://skillicons.dev)
 
 ---
 
@@ -36,20 +36,24 @@
 
 ## 🎯 Areas of Interest
 
-- 📐 Algorithms & Problem Solving  
-- 📦 Databases & Query Optimization  
-- 🧠 Artificial Intelligence & ML (beginner level)  
-- 🛡️ Cybersecurity Fundamentals  
-- 📤 APIs & Backend Logic  
+- Algorithms & Problem Solving  
+- Databases & Query Optimization
+- Graphic Designing 
+- APIs & Backend Logic  
 
 ---
 
 ## 🌐 Connect with Me
+<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sanjay-s-939895263/)" target="_blank">
+  <img src="https://img.icons8.com/color/24/linkedin.png" alt="LinkedIn" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/your-gfg-username/profile" target="_blank">
+  <img src="https://img.icons8.com/color/24/GeeksforGeeks.png" alt="GeeksforGeeks" />
+</a>
+<a href="https://leetcode.com/your-leetcode-username" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/-Sanjay-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/-prxvn1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prxvn1@gmail.com)
 
 ---
-
-_“Strive for clarity in code, just like in thought.” – Unknown_
 
