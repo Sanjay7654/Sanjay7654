@@ -1,11 +1,11 @@
 <!-- README.md -->
 
-<h1 align="center">Hello TechStar 👋, I'm Sanjay</h1>
-<h3 align="center">🎓 Computer Science Graduate | Curious Learner | Software Enthusiast</h3>
+<h1 align="center">👋 Welcome to My Dev Space — I'm Sanjay</h1>
+<h3 align="center">🎓 Computer Science Graduate | Committed to Continuous Improvement | Converting Logics into code</h3>
 
 ---
 
-🚀 I'm a Computer Science graduate from Chennai, India — passionate about designing efficient systems, writing clean code, and solving real-world problems using technology.
+🚀 I'm a Computer Science graduate from Chennai, India — passionate about designing efficient systems, writing clean code, and trying to solve real-world problems using technology.
 
 ---
 
@@ -40,8 +40,4 @@
 - Databases & Query Optimization
 - Graphic Designing 
 - APIs & Backend Logic  
-
----
-
-
 
