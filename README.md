@@ -44,7 +44,7 @@
 ---
 
 ## 🌐 Connect with Me
-<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sanjay-s-939895263/)" target="_blank">
+<a href="https://www.linkedin.com/in/sanjay-s-939895263/" target="_blank">
   <img src="https://img.icons8.com/color/24/linkedin.png" alt="LinkedIn" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/your-gfg-username/profile" target="_blank">
