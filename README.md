@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hi there 👋, I'm Sanjay</h1>
+<h1 align="center">Hello TechStar 👋, I'm Sanjay</h1>
 <h3 align="center">🎓 Computer Science Graduate | Curious Learner | Software Enthusiast</h3>
 
 ---
@@ -21,15 +21,7 @@
 
 ## 🛠️ Languages & Tools
 
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats
