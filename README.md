@@ -43,22 +43,22 @@
 
 ---
 
-## 🌐 Connect with Me
+
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sanjay-s-939895263/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/profile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" />
-  </a>
-  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" alt="GeeksforGeeks" />
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" alt="HackerRank" />
   </a>
 </p>
 
