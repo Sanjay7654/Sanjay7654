@@ -21,7 +21,7 @@
 
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,vscode,idea,figma,postman,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,vscode,idea,figma,postman,git)](https://skillicons.dev)
 
 ---
 
