@@ -50,8 +50,8 @@
 <a href="https://auth.geeksforgeeks.org/user/your-gfg-username/profile" target="_blank">
   <img src="https://img.icons8.com/color/24/GeeksforGeeks.png" alt="GeeksforGeeks" />
 </a>
-<a href="https://leetcode.com/your-leetcode-username" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
+<a href="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000"/>
+
 </a>
 
 
