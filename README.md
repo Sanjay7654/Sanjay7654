@@ -45,18 +45,20 @@
 
 ## 🌐 Connect with Me
 
-<p>
+## 🌐 Connect with Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/sanjay-s-939895263/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="64" height="64"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/your-gfg-username/profile" target="_blank">
-    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GeeksforGeeks" width="64" height="64"/>
+  <a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="64" height="64"/>
+  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/your-hackerrank-username/" target="_blank">
-    <img src="https://img.icons8.com/windows/48/00C853/hackerrank.png" alt="HackerRank" width="64" height="64"/>
+  <a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="40" />
   </a>
 </p>
 
