@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 💻 Exploring **Data Structures**, **Algorithms**, and **Database**
-- ⚙️ Practicing **Object-Oriented Programming** in Java & Python
+- ⚙️ Practicing **Object-Oriented Programming** in Java 
 - 🛠 Currently building small apps with **HTML**,**CSS**,**JavaScript** and **Java** 
 - 🧪 Laying Foundations in  **Operating Systems**, **Computer Networks**, and **DBMS**
 - 📫 Reach me at: **ssan22124.cs@rmkec.ac.in**
